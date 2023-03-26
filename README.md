@@ -51,7 +51,7 @@
 	Handle the following flag characters for non-custom conversion specifiers:
 	- +
 	- space
-	- #
+	- /#
 
 #
 8. **Sarcasm is lost in print**
