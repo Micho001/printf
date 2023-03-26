@@ -78,12 +78,12 @@
 
 	Handle the 0 flag character for non-custom conversion specifiers.
 #
-12. **Every time that I wanted to give up, if I saw an interesting textile, print whatever, suddenly I would see a collection**
+#12. **Every time that I wanted to give up, if I saw an interesting textile, print whatever, suddenly I would see a collection**
 
 
 	Handle the - flag character for non-custom conversion specifiers.
 #
-13. **Print is the sharpest and the strongest weapon of our party**
+#13. **Print is the sharpest and the strongest weapon of our party**
 
 
 	Handle the following custom conversion specifier:
@@ -95,7 +95,7 @@
 	Handle the following custom conversion specifier:
 	- R: prints the rot13'ed string
 #
-15. *
+#15. *
 
 
 	All the above options work well together.
