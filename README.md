@@ -13,13 +13,13 @@
 	- d
 	- i
 #
-#2. With a face like mine, I do better in print
+#2. **With a face like mine, I do better in print**
 
 
 	Handle the following custom conversion specifiers:
 	- b: the unsigned int argument is converted to binary
 #
-#3. What one has not experienced, one will never understand in print            
+#3. **What one has not experienced, one will never understand in print**
 
 
 	Handle the following conversion specifiers:
