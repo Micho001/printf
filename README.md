@@ -1,7 +1,7 @@
 # ***PROJECT OBJECTIVE***
 0x11. C - printf team project
 #
-#0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
+#0. **I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life**
 
 
 	Write a function that produces output according to a format.
@@ -28,7 +28,7 @@
 	- x
 	- X
 #
-4. **Nothing in fine print is ever good news**
+#4. **Nothing in fine print is ever good news**
 
 
 	Use a local buffer of 1024 chars in order to call write as little as possible.
